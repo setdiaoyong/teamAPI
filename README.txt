@@ -1,6 +1,6 @@
 按照我的博客 http://blog.xbreeding.com/index.php/archives/4/   说明设置应用ID授权，其中到Redirect URIs ，除了http://localhost:3000/，还要增加自己的部署所用的https://网址到Redirect URIs，不然可能子账号登录会报Redirect URIs不相符的错（需要ssl安全认证的https://域名）
 
-此库基于2020年4月10日原项目github最新版，编译打包形成的静态网址文件，此库只作为 github page 和 下载部署到自己空间域名 使用。
+此库基于2020年4月10日原项目github最新版(为了防查，具体来源看博客)，编译打包形成的静态网址文件，此库只作为 github page 和 下载部署到自己空间域名 使用。
 
 一、以下是github PAGE 部署说明：
 
