@@ -1,4 +1,4 @@
-按照我的博客http://blog.xbreeding.com/index.php/archives/4/说明设置应用ID授权，其中到Redirect URIs ，除了http://localhost:3000/，还要增加自己的部署所用的https://网址到Redirect URIs，不然可能子账号登录会报Redirect URIs不相符的错（需要ssl安全认证的https://域名）
+按照我的博客http://blog.xbreeding.com/index.php/archives/4/   说明设置应用ID授权，其中到Redirect URIs ，除了http://localhost:3000/，还要增加自己的部署所用的https://网址到Redirect URIs，不然可能子账号登录会报Redirect URIs不相符的错（需要ssl安全认证的https://域名）
 
 基于2020年4月10日原项目github最新版，编译打包
 
